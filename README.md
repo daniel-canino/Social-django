@@ -11,7 +11,7 @@
 
 1. Clona el repositorio o descargalo como zip.
 
-```git clone https://github.com/daniel-canino/Social-django```
+```git clone https://github.com/daniel-canino/Social-django.git```
 
 2. Instala las dependencias/librerias en requirements.txt
 
